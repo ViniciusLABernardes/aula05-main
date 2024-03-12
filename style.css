@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    border:solid 2px #ff0000;
+}
+
+/* nav ul{
+    display: flex;
+    justify-content: center;
+    gap:5%;
+    
+}
+nav ul li{
+    display: flex;
+    flex-direction: row;
+}
+nav ul li a{
+    color: black;
+} */
+/* nav ul li a:hover{
+    color: rgb(252, 17, 17);
+    transition: 0.2s;
+    transform: scale(1.2);
+
+} */
